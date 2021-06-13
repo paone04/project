@@ -1,6 +1,6 @@
 # Gender-and-Age-Detection   
 
-<h2>Dataset :</h2>
+Dataset:
 <p>For this python project, I have used the Adience dataset; the dataset is available in the public domain and you can find it <a href="https://www.kaggle.com/ttungl/adience-benchmark-gender-and-age-classification">here</a>. This dataset serves as a benchmark for face photos and is inclusive of various real-world imaging conditions.</p>
 
 <h2>Additional Python Libraries Required :</h2>
